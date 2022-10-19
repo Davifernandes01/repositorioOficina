@@ -17,11 +17,11 @@ public class ConnectionFactory {
    {
       ComboPooledDataSource conectaOficina = new ComboPooledDataSource();
 
-      conectaOficina.setJdbcUrl("jdbc:mysql://localhost/oficina?useTimezone=true&serverTimezone=UTC");
+      conectaOficina.setJdbcUrl("jdbc:mysql://localhost/oficina?useTimezone=true&serverTimezone=UTC"); // provavelmente isso aqui vai funcionar
 
-      conectaOficina.setUser("root");
+      conectaOficina.setUser(""); //coloque o usuario do mysql
 
-      conectaOficina.setPassword("davi2003@");
+      conectaOficina.setPassword(""); // senha do mysql
 
       //numero maximo de instacias
       conectaOficina.setMaxPoolSize(10);
