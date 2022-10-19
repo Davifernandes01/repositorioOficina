@@ -1,0 +1,20 @@
+{
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar",
+            "c:\\Users\\rada\\AppData\\Local\\SceneBuilder\\app\\scenebuilder-19.0.0-all.jar",
+            "c:\\Users\\rada\\Downloads\\openjfx-19_windows-x86_bin-sdk\\javafx-sdk-19\\lib\\javafx.base.jar",
+            "c:\\Users\\rada\\Downloads\\openjfx-19_windows-x86_bin-sdk\\javafx-sdk-19\\lib\\javafx.controls.jar",
+            "c:\\Users\\rada\\Downloads\\openjfx-19_windows-x86_bin-sdk\\javafx-sdk-19\\lib\\javafx.fxml.jar",
+            "c:\\Users\\rada\\Downloads\\openjfx-19_windows-x86_bin-sdk\\javafx-sdk-19\\lib\\javafx.graphics.jar",
+            "c:\\Users\\rada\\Downloads\\openjfx-19_windows-x86_bin-sdk\\javafx-sdk-19\\lib\\javafx.media.jar",
+            "c:\\Users\\rada\\Downloads\\openjfx-19_windows-x86_bin-sdk\\javafx-sdk-19\\lib\\javafx.swing.jar",
+            "c:\\Users\\rada\\Downloads\\openjfx-19_windows-x86_bin-sdk\\javafx-sdk-19\\lib\\javafx.web.jar",
+            "c:\\Users\\rada\\Downloads\\openjfx-19_windows-x86_bin-sdk\\javafx-sdk-19\\lib\\javafx-swt.jar"
+        ],
+        "exclude": [
+            "c:\\Oficina\\lib\\mchange-commons-java-0.2.16.jar",
+            "c:\\Oficina\\lib\\c3p0-0.9.5.4.jar"
+        ]
+    }
+}
